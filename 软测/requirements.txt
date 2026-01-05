@@ -1,0 +1,6 @@
+pytest
+requests
+pytest-playwright
+pytest-cov
+pytest-xdist
+playwright
